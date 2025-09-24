@@ -15,7 +15,7 @@ The goal is to uncover **customer preferences, top-selling categories, and sales
 ---
 
 ## 🛠️ Tools & Technologies
-- **Python 3**  
+- **Python 3.13.7**  
 - **Pandas/ Numpy** – Data manipulation & analysis  
 - **Matplotlib** – Data visualization  
 - **Jupyter Notebook** – Interactive analysis  
