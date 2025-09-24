@@ -41,7 +41,8 @@ Blinkit-Sales-Analysis/
 ---
 
 ## 📈 Sample Visuals
-*(Add screenshots of a few charts here, e.g., Fat Content Donut Chart, Sales by Item Type Bar Chart)*  
+<img width="1657" height="774" alt="image" src="https://github.com/user-attachments/assets/503de13c-2f3a-4d9e-88c9-a5573af227b0" />
+
 
 ---
 
