@@ -25,9 +25,13 @@ The goal is to uncover **customer preferences, top-selling categories, and sales
 ## 📂 Project Structure
 Blinkit-Sales-Analysis/
 │── data/ # Dataset (if shareable or sample)
+
 │── Blinkit_Analysis.ipynb # Jupyter Notebook with full analysis
+
 │── blinkit_analysis.py # (Optional) Script version
+
 │── README.md # Project documentation
+
 │── requirements.txt # Python dependencies
 
 ---
