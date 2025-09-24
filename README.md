@@ -60,7 +60,7 @@ This project demonstrates how **data-driven insights** can guide **business deci
 
 ## 🙌 Acknowledgements
 Dataset source: Blinkit (sample dataset for analysis purpose)  
-Developed using **Python, Pandas, and Matplotlib**.  
+Developed using **Python, Pandas,Numpy, and Matplotlib**.  
 
 ---
 
